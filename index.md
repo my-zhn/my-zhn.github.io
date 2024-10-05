@@ -19,9 +19,9 @@ My current research focuses on the transmission of Global Financial Cycle and ex
 
 ## Work in Progress
 
-### Foreign Long-term Institutional Investors, Government Debt, and Global Financial Stability, with Jiayi Li.
+Foreign Long-term Institutional Investors, Government Debt, and Global Financial Stability, with Jiayi Li.
 
-### Quantitative Easing and Exchange Rates: High-Frequency Evidence from the United States, the Eurozone, the United Kingdom, and Japan.
+Quantitative Easing and Exchange Rates: High-Frequency Evidence from the United States, the Eurozone, the United Kingdom, and Japan.
 
 ---
 
